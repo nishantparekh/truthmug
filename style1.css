@@ -1,0 +1,44 @@
+*{
+background-color: #eaede9;
+}
+#bodyposts{
+    font-size: 13px;
+    color: #222;
+}
+#myposts{
+	 -webkit-box-shadow: 0px 5px  10px -2px #ddd;
+            box-shadow: 0px 5px 10px -2px #ddd;
+}
+#date_added {
+    width: 80px;
+    float: left;
+    margin: 5px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: #fff;
+    color: #003e7d;
+    font-weight: bold;
+}
+.likebtninfo {
+    text-align: center;
+    width: 70px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 3px;
+    border-radius: 7px;
+}
+#linkebtn{
+text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 70px;
+    border-radius: 4px;
+    border: none;
+    font-family: Helvetica, tahoma, Verdana;
+    cursor: pointer;
+    cursor: hand;
+    color: #fff;
+    background-color: #f00;
+}
